@@ -1,2 +1,3 @@
 # HWID-Checker
-This will reveal your hardware id into textbox.
+
+If you want get your HWID into textbox in C# that could help you.
